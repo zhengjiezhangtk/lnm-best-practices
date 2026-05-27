@@ -1,0 +1,34 @@
+# Downloaded code repos (too large)
+code/
+
+# Papers (too large)
+paper/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+.pytest_cache/
+*.png
+
+# Claude Code
+.claude/
+docs/superpowers/
